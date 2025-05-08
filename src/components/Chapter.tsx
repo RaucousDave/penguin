@@ -1,4 +1,3 @@
-import React from 'react';
 import TypingText from './TypingText.tsx'
 
 interface ChapterProps{

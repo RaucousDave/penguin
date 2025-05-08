@@ -38,7 +38,7 @@ import {AnimatePresence, motion} from 'framer-motion';
   {
     number: 7,
     title: "Waiting and Wondering",
-    content: "Basically, after all the convincing we finally did work out, but some people didn't want to date until they moved out. So I waited, I was happy enough knowing that you liked me and the possibility of us dating afer you move out, but boy oh boy, did this period also come with drama as well, I legit thought that we wouldn't work from here on, because it was as if I always found one new way to make you angry and I felt really bad and I actually thought that it was unfair to force my thoughts on you even when you were skeptical about this relationship in the first place. But with the power of saying sorry repeatedly and your forgiving spirit we made it out of this phase"
+    content: "Basically, after all the convincing we finally did work out, but some people didn't want to date until they moved out. So I waited, I was happy enough knowing that you liked me and the possibility of us dating after you move out, but boy oh boy, did this period also come with drama as well, I legit thought that we wouldn't work from here on, because it was as if I always found one new way to make you angry and I felt really bad and I actually thought that it was unfair to force my thoughts on you even when you were skeptical about this relationship in the first place. But with the power of saying sorry repeatedly and your forgiving spirit we made it out of this phase"
   },
   {
     number: 8,
